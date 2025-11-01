@@ -14,7 +14,7 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 
 ### 💻 Lenguajes de Programación e IDEs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,visualstudio,vscode" />
 </p>
 
 ### 🌐 Desarrollo Web y Bases de Datos
