@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ricardo Venegas 👾🦝
 
-Soy un estudiante de Multimedia y Animacion Digital, apasionado por el desarrollo de videojuegos y diseño de aplicaciones web y móviles.
+Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado por el desarrollo de videojuegos y diseño de aplicaciones web y móviles.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
