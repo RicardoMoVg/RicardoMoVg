@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ricardo Venegas 👾🦝
 
-Soy un desarrollador de software [Tu Rol, ej: .NET Developer] apasionado por [Tu Pasión, ej: el desarrollo de aplicaciones de escritorio y móviles].
+Soy un desarrollador de software [Tu Rol, ej: .NET Developer] apasionado por el desarrollo de videojuegos y diseño de aplicaciones web y móviles.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
@@ -12,15 +12,6 @@ Soy un desarrollador de software [Tu Rol, ej: .NET Developer] apasionado por [Tu
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,react,js,html,css,sql,postgres,git,visualstudio,vscode" />
-</p>
-
----
-
-## 🔥 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoMoVlg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMoVlg&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
