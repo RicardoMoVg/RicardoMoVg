@@ -8,7 +8,7 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 
 ---
 
-## 🛠️ Mi Arsenal Tecnológico
+## 🛠️ Tecnologías que sé
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,react,js,html,css,sql,postgres,git,visualstudio,vscode" />
@@ -16,7 +16,7 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 
 ---
 
-## 📫 ¿Conectamos?
+## 📫 Mis contactos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
