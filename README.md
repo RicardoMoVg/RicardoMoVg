@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ricardo Venegas 👋
+# ¡Hola! Soy Ricardo Venegas 👾🦝
 
 Soy un desarrollador de software [Tu Rol, ej: .NET Developer] apasionado por [Tu Pasión, ej: el desarrollo de aplicaciones de escritorio y móviles].
 
