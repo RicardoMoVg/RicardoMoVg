@@ -7,11 +7,19 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 </p>
 
 ---
-
-## 🛠️ Tecnologías que sé
-
+### 🎮 Motores y Diseño de Juegos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,py,visualstudio,react,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender" />
+</p>
+
+### 💻 Lenguajes de Programación e IDEs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,py,visualstudio" />
+</p>
+
+### 🌐 Desarrollo Web y Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,postgres" />
 </p>
 
 ---
