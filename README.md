@@ -11,7 +11,7 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 ## 🛠️ Tecnologías que sé
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,c++,cs,cpp,blender,py,visualstudio,react,html,css,postgres" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,blender,py,visualstudio,react,html,css,postgres" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado 
 ## 🎧 Mientras programo, suelo estar escuchando esto:
 
 <p align="left">
-  <a href="https://music.youtube.com/watch?v=www.youtube.com/watch?v=dy-oHKkISK8&list=RDdy-oHKkISK8&start_radio=1" target="_blank">
+  <a href="https://music.youtube.com/watch?v=dy-oHKkISK8&list=RDdy-oHKkISK8" target="_blank">
     <img src="https://img.shields.io/badge/YouTube Music-Mi Playlist de Dev-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="Mi Playlist de Dev en YouTube Music"/>
   </a>
 </p>
