@@ -2,9 +2,7 @@
 
 Soy un estudiante de Licenciatura en Multimedia y Animacion Digital, apasionado por el desarrollo de videojuegos y diseño de aplicaciones web y móviles.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
+![RicardoMoVg's GitHub Banner](https://raw.githubusercontent.com/RicardoMoVg/RicardoMoVg/main/RicardoMoVg-readme-banner.png)
 
 ---
 ### 🎮 Motores y Diseño de Juegos
